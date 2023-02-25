@@ -43,7 +43,5 @@ const displayData = () => {
     `;
     container.appendChild(div)
   })
-
-
 }
 displayData()
